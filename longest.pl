@@ -1,3 +1,7 @@
+# Copyright (C) 2018 David Lichti
+#
+# This file is part of LongestWord and published under the BSD-3-Cluse license.
+
 use strict;
 use warnings;
 
